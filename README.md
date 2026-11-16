@@ -24,4 +24,4 @@ I enjoy experimenting with new technologies, working on different projects, and 
 ### Get in Touch
 
 - **Email:** prathamshah485@gmail.com
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pratham-shah-773071283/))
