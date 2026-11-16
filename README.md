@@ -22,7 +22,6 @@ I enjoy experimenting with new technologies, working on different projects, and 
 
 - Currently working on AI automation and agent-based projects.
 - Interested in AI/ML, backend development, and automation.
-- Pursuing B.E. in Computer Science at L.J. University.
 
 ### Get in Touch
 
