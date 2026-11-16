@@ -16,7 +16,7 @@ I enjoy experimenting with new technologies, working on different projects, and 
 - **Frontend:** React, MERN Stack
 - **Databases:** PostgreSQL, MySQL, MongoDB, Supabase, ChromaDB, Pinecone, SQLite
 - **Data & Web Scraping:** NumPy, Pandas, Matplotlib, Selenium
-- **Tools & Platforms:** Git, GitHub, Docker, AWS, Webflow, Render
+- **Tools & Platforms:** Git, GitHub,AWS, Webflow, Render
 
 ### A Little More About Me
 
