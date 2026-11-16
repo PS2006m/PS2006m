@@ -8,12 +8,15 @@ I enjoy experimenting with new technologies, working on different projects, and 
 
 ### Tech Stack
 
-- **AI/ML:** Python, Machine Learning, LLMs, RAG, AI Agents
-- **Automation:** n8n, Make.com, Activepieces
-- **Backend:** FastAPI, Django, Node.js, Express.js
-- **Frontend:** React, Next.js, JavaScript
-- **Databases:** PostgreSQL, MongoDB, Supabase
-- **Tools:** Git, Docker, Elasticsearch
+- **Languages:** Python, JavaScript, Java, SQL
+- **AI/ML & Deep Learning:** TensorFlow, Keras, PyTorch, Scikit-learn, Hugging Face Transformers
+- **LLMs & Agentic AI:** LangChain, LangGraph, CrewAI, OpenAI API, Gemini, RAG, Multi-Agent Systems
+- **Automation:** n8n, Make.com, Zapier, Apify
+- **Backend & APIs:** FastAPI, Flask, Django, REST APIs, Node.js, Express.js, Microsoft Graph, WhatsApp Cloud API
+- **Frontend:** React, MERN Stack
+- **Databases:** PostgreSQL, MySQL, MongoDB, Supabase, ChromaDB, Pinecone, SQLite
+- **Data & Web Scraping:** NumPy, Pandas, Matplotlib, Selenium
+- **Tools & Platforms:** Git, GitHub, Docker, AWS, Zammad, Webflow, Render
 
 ### A Little More About Me
 
